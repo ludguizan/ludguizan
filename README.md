@@ -1,8 +1,8 @@
 ### Olá, meu nome é Ludmila Rangel 👋
 
 
-- 💙 Atualmente estou estudando React Native!
-- ⚡ Estou em transição de carreira para a área de Desenvolvimento Mobile. 
+- 💙 Atualmente estou estudando Análise e Desenvolvimento de Sistemas com previsão de formatura para 2024/1!
+- ⚡ Fazendo estágio na área de Dados. 
 - 🚀 Sempre em busca do meu crescimento, seja profissional e/ou pessoal!
 
  <div>
@@ -12,13 +12,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lud-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Lud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lud-ReactNative" height="30" width="40" "img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Lud-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-
+  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PowerBi" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://www.svgrepo.com/show/373589/excel.svg">
+                                                                                                                                             
 </div>
 
 ##
